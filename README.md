@@ -2,7 +2,7 @@
 
 **[2º BACH A] · Curso 2026-2027**
 
-Aquí plasmare mi trabajo, cordial saludo
+Aquí plasmare mi trabajo, cordial saludo.
 
 ---
 
