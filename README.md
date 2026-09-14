@@ -1,6 +1,6 @@
 # TDA Lab de GONZALO
 
-*[2º BACH A · Curso 2026-2027**
+*2º BACH A · Curso 2026-2027**
 
 Aquí plasmare mi trabajo, cordial saludo.
 
