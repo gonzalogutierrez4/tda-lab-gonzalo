@@ -1,15 +1,13 @@
-# Temas del curso
+### 16/09 · Mis aficiones
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
+LLevo jugando al futbol desde los 5 años, porque me gusta desde que soy pequeño.                                                                                                                                             Lo mas satisfactorio del futbol para mi es el progreso individual con el paso del tiempo                                                                                                                                       y cuando ganas en equipo y lo puedes disfrutar junto a ellos. Entreno los lunes,miercoles                                                                                                                                     
+y viernes. También de vez en cuando me gusta jugar al padél junto a mi padre y algún amigo                                                                                                                                  suyo.
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
+Buscando en GitHub he encontrado [AntonRaichuk](https://github.com/google-research/football),
+una pagina PARA SABER DE FUTBOL
 
-```
-### Título del tema — fecha
+![Mi balón de balonmano](capturas/balonmano.jpg)
 
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+---
+
+
