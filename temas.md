@@ -6,7 +6,7 @@ y viernes. También de vez en cuando me gusta jugar al padél junto a mi padre y
 Buscando en GitHub he encontrado [AntonRaichuk](https://github.com/google-research/football),
 una pagina PARA SABER DE FUTBOL
 
-![Mi balón de balonmano](capturas/balonmano.jpg)
+
 
 ---
 
