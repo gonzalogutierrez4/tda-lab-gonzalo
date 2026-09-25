@@ -7,8 +7,7 @@ Buscando en GitHub he encontrado [AntonRaichuk](https://github.com/google-resear
 una pagina PARA SABER DE FUTBOL.
 
 
-![capturas/Captura de pantalla 2026-09-16 142047.png]
-
+![Mi red](capturas/Red1.png)
 
 
 ---
