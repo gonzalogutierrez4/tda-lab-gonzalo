@@ -4,10 +4,11 @@ LLevo jugando al futbol desde los 5 años, porque me gusta desde que soy pequeñ
 y viernes. También de vez en cuando me gusta jugar al padél junto a mi padre y algún amigo                                                                                                                                  suyo.
 
 Buscando en GitHub he encontrado [AntonRaichuk](https://github.com/google-research/football),
-una pagina PARA SABER DE FUTBOL
+una pagina PARA SABER DE FUTBOL.
 
 
-![Mi antiguo equipo de futbol](capturas/Captura de pantalla 2026-09-16 142047.png)
+
+
 
 ---
 
