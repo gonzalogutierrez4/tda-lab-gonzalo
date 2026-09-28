@@ -11,5 +11,13 @@ una pagina PARA SABER DE FUTBOL.
 
 
 ---
+### 28/09· Premios Princesa de Asturias: Messi
+Escogí a Messi ya que creo que es uno de los mejores futbolistas de la historia
+y se merece ese premio. 
+[Su pagina en la fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?texto=acta)
+Aparte de lo deportivo como personas tiene unos valores muy buenos y se preocupa
+por la gente que tienen una mala situación, por ultimo es una persona que influye 
+mucho sobre los jovenes ya que es un referente para muchas personas.
+
 
 
