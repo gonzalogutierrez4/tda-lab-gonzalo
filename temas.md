@@ -19,6 +19,6 @@ Aparte de lo deportivo como personas tiene unos valores muy buenos y se preocupa
 por la gente que tienen una mala situación, por ultimo es una persona que influye 
 mucho sobre los jovenes ya que es un referente para muchas personas.
 
-![DESCRIPCIÓN CORTA]
-
+![DESCRIPCIÓN CORTA](capturas/messi.png)
+Imagen: UNESCO , [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vanessa_Modely_Cristiano_Ronaldo_Lionel_Messi.jpg)
 
