@@ -30,7 +30,7 @@ Ada Lovelace fue una matemática británica nacida en 1815. Es considerada una d
 de la historia porque escribió instrucciones para una máquina que realizaba cálculos.
 [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace) Su día se celebra el
 segundo martes de octubre para reconocer a las mujeres en la ciencia y la tecnología. En 2026 fue el 13 de octubre.
-![Imagen de ada](capturas/ada.png){: width="300"} 
+![Imagen de ada](capturas/ada.png){ width="300"} 
 
 *Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=ada+lovelace&title=Special%3AMediaSearch&type=image))*
 
