@@ -18,8 +18,22 @@ y se merece ese premio.
 [Su pagina en la fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?texto=acta)
 Aparte de lo deportivo como personas tiene unos valores muy buenos y se preocupa
 por la gente que tienen una mala situación, por ultimo es una persona que influye 
-mucho sobre los jovenes ya que es un referente para muchas personas.
+mucho sobre los jóvenes ya que es un referente para muchas personas.
 
 ![DESCRIPCIÓN CORTA](capturas/messi.png)
 Imagen: UNESCO , [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vanessa_Modely_Cristiano_Ronaldo_Lionel_Messi.jpg)
+
+
+
+### 13/10 · Ada Lovelace
+Ada Lovelace fue una matemática británica nacida en 1815. Es considerada una de las primeras programadoras 
+de la historia porque escribió instrucciones para una máquina que realizaba cálculos.
+[Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace) Su día se celebra el
+segundo martes de octubre para reconocer a las mujeres en la ciencia y la tecnología. En 2026 fue el 13 de octubre.
+![DESCRIPCIÓN CORTA](capturas/ada.png){: width="300"}
+*
+Ada Lovelace daguerreotype by Antoine Claudet 1843 - cropped.png. Imagen: Antoine Claudet, [Wikimedia Commons]
+(https://commons.wikimedia.org/w/index.php?search=ada+lovelace&title=Special%3AMediaSearch&type=image))*
+
+---
 
