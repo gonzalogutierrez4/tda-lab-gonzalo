@@ -12,7 +12,7 @@
 - **Entregado:** Con un enlace github
 - **Qué hice:** Cree una entrada en el blog sobre la persona que escogi de los premios Princesa de Asturias
 
-- 
+  
 - ### 09/10 · Escribir en Pantalla
 
 - **Aplicación:** Github
