@@ -36,3 +36,24 @@ segundo martes de octubre para reconocer a las mujeres en la ciencia y la tecnol
 
 ---
 
+
+### 27/11 · Voyager 1
+
+La Voyager 1 es una sonda espacial lanzada por la nasa en 1977.
+Su misión era explorar Júpiter y Saturno y enviar información a la Tierra.
+Actualmente, viaja por el espacio interestelar (https://es.wikipedia.org/wiki/Voyager_1),
+más allá de nuestro sistema solar.
+
+| Dato | Voyager 1 |
+|---|---|
+| Lanzamiento | 05/10/1977 |
+| Distancia a la Tierra |25.902 millones km |
+| Velocidad | 61.155 km/h |
+| Lo que tarda su señal en llegar | 24 horas |
+| Años de viaje | 49 años |
+
+!Disco de oro voyager](capturas/voyager.jpg){: width="300"}
+*NASA/JPL. Imagen: NASAJPL, [Wikimedia Commons]((https://commons.wikimedia.org/w/index.php?search=voyager+1&title=Special%3AMediaSearch&type=image))*
+
+**Mi Disco de Oro 2026**
+
