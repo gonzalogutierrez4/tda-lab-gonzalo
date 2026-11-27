@@ -53,7 +53,7 @@ más allá de nuestro sistema solar.
 | Años de viaje | 49 años |
 
 !Disco de oro voyager](capturas/voyager.jpg){: width="300"}
-*NASA/JPL. Imagen: NASAJPL, [Wikimedia Commons]((https://commons.wikimedia.org/w/index.php?search=voyager+1&title=Special%3AMediaSearch&type=image))*
+*NASA/JPL. Imagen: NASAJPL, ((https://commons.wikimedia.org/w/index.php?search=voyager+1&title=Special%3AMediaSearch&type=image))*
 
 **Mi Disco de Oro 2026**
 
